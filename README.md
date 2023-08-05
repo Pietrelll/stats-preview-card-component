@@ -1,2 +1,2 @@
 # stats preview card component
- stats preview card component frontend mentor project
+ Stats preview card component frontend mentor project. Live at: https://pietrelll.github.io/stats-preview-card-component/
